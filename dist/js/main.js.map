@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["app.js"],"sourcesContent":["import $ from 'jquery';\r\nimport {changeColor} from \"./test\";\r\n\r\nchangeColor('div');\r\n\r\n$('body').css('background-color', 'black');\r\n\r\nconsole.log(this);"],"file":"main.js"}
